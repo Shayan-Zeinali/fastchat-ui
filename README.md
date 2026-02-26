@@ -38,8 +38,6 @@ Preview
 
 ![Main Interface (Light Mode)](screenshots/desktop-light-mode.jpg)
 
-![Mobile Mode](screenshots/mobile-light-mode.jpg)
-
 ![Dark Mode](screenshots/desktop-dark-mode.jpg)
 
 ![Login Page](screenshots/login-page.jpg)
