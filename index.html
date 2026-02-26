@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>FastChat</title>
+    <meta name="author" content="Shayan Zeinali" />
+    <meta name="description" content="A real-time chat page" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="icon" href="/images/logo.ico" type="image/x-icon" />
+  </head>
+  <body>
+    <div id="right-bar">
+      <div>
+        <img src="/images/chat icon.png" alt="chat icon" />
+      </div>
+      <div style="margin-top: auto; margin-bottom: 13px">
+        <img src="/images/log out icon.png" alt="log out icon" />
+      </div>
+    </div>
+
+    <div id="middle-bar">
+      <div id="header">
+        <img src="/images/logo.png" alt="FastChat logo" />
+      </div>
+
+      <div id="chat-list">
+        <div class="chat-item">
+          <img src="/images/profile1.png" alt="profile" />
+          <div class="chat-name">Ali</div>
+        </div>
+        <div class="chat-item">
+          <img src="/images/profile2.png" alt="profile" />
+          <div class="chat-name">Reza</div>
+        </div>
+        <div class="chat-item">
+          <img src="/images/profile3.png" alt="profile" />
+          <div class="chat-name">Shayan</div>
+        </div>
+        
+      </div>
+    </div>
+
+    <div id="main-box">
+      <div id="chat-header">
+        <img src="/images/profile1.png" alt="profile" />
+        <div class="chat-title">Ali Najari</div>
+      </div>
+
+      <div id="chat-messages">
+        <div class="message message-r">
+          <div class="sender-name">Ali</div>
+          <div class="text">Hi! How are you?</div>
+          <div class="time">3:00 PM</div>
+        </div>
+
+        <div class="message message-s">
+          <div class="sender-name">You</div>
+          <div class="text">I'm good, thanks How about you?</div>
+          <div class="time">3:00 PM</div>
+        </div>
+
+        <div class="message message-r">
+          <div class="sender-name">Ali</div>
+          <div class="text">Everything is great</div>
+          <div class="time">3:00 PM</div>
+        </div>
+      </div>
+
+      <div id="chat-input">
+        <input
+          id="messageInput"
+          type="text"
+          placeholder="Type your message..."
+        />
+        <button id="sendBtn">Send</button>
+      </div>
+    </div>
+    <script src="js/script.js"></script>
+  </body>
+</html>
