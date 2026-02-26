@@ -27,7 +27,11 @@ Technologies
 Live Demo
 ---------
 
-GitHub Pages Link: https://yourusername.github.io/fastchat-ui/
+GitHub Pages Link: 
+
+https://shayan-zeinali.github.io/fastchat-ui/
+
+https://shayan-zeinali.github.io/fastchat-ui/login.html
 
 Preview
 -------
