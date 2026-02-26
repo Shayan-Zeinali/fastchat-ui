@@ -7,20 +7,29 @@ This project focuses on layout architecture, visual hierarchy, and clean UI sepa
 Features
 
 Structured multi-page layout (authentication + chat interface)
+
 Clear separation of concerns between pages
+
 Modular CSS organization
+
 Consistent visual hierarchy and spacing
+
 Responsive layout using Flexbox
+
 Organized asset structure
+
 Minimal JavaScript for UI interaction handling
 
 Technologies
 
 HTML5
+
 CSS3 (Flexbox, CSS Variables)
+
 Vanilla JavaScript
 
 Live Demo
+
 GitHub Pages Link:
 https://yourusername.github.io/fastchat-ui/
 
