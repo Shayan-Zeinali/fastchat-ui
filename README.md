@@ -32,10 +32,13 @@ GitHub Pages Link: https://yourusername.github.io/fastchat-ui/
 Preview
 -------
 
-Main Interface (Light Mode)  
-Mobile Mode  
-Dark Mode  
-Login Page  
+![Main Interface (Light Mode)](screenshots/desktop-light-mode.jpg)
+
+![Mobile Mode](screenshots/mobile-light-mode.jpg)
+
+![Dark Mode](screenshots/desktop-dark-mode.jpg)
+
+![Login Page](screenshots/login-page.jpg)
 
 Author
 ------
